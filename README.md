@@ -1,2 +1,2 @@
 # ThetaFlicks-Android
-Android build for ThetaFlicks
+Android build for ThetaFlicks built in Kodular
