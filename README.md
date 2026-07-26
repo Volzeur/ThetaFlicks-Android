@@ -128,4 +128,4 @@ Distributed under the **GNU AGPLv3 License**. See `LICENSE` for more information
 
 ---
 
-Created by [Volzeur](https://github.com/Volzeur)
+Created by [Nicodemus Gurning](https://github.com/Volzeur)
